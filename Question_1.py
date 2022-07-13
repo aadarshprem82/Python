@@ -1,0 +1,6 @@
+tup = (1,2,3,4,5,6)
+print("The Tuple is ",tup)
+L = list(tup)
+L.remove(int(input("Enter the element to Remove : ")))
+tup=tuple(L)
+print(tup)
