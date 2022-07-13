@@ -4,3 +4,7 @@ All for's in while.
 
 Array : It is the collection of similar datatypes.
 
+a[2][2][2]
+[] : is set  # in between these all are subsets
+[] : is row
+[] : is column
