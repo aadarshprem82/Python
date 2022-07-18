@@ -8,3 +8,14 @@ a[2][2][2]
 [] : is set  # in between these all are subsets
 [] : is row
 [] : is column
+
+Joining Rule : for joining there should be one column with same datatype in both the tables.
+
+sql functions
+sys defined   single row &    
+              date & time   
+              string        
+              numeric       
+              system      
+              
+user defined               
