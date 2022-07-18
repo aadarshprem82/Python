@@ -19,3 +19,8 @@ sys defined   single row &
               system      
               
 user defined               
+
+Normalization
+1NF :  Primary Key
+2NF : 1NF and No Partial Dependency
+3NF : 1NF, 2NF and No transitive dependency(indirect dependencies)
