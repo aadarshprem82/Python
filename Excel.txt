@@ -1,0 +1,15 @@
+Excel : In 1987, By Charles Babbage (By Microsoft in 1987 for Apple Inc.)
+First Windows (in 1994) with Excel.
+  Rows : 65,536
+  Columns : 284
+Till 2003....
+
+In Excel 2007
+  Rows : 1,048,576 
+  Columns : 16,384
+  
+Position of Column : =COLUMN()
+Position of Row : =ROW()
+
+Counting Numeric Values : =COUNT()
+Counting Every Values : =COUNTA()
