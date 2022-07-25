@@ -28,3 +28,6 @@ Normalization
     transitive : non key attribute to non key attribute
 
 Matplotlip is python library to manage graphs in python.
+
+cluster and non cluster index : 
+data preprocessing
