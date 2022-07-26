@@ -43,3 +43,10 @@ fit_transform() : categorial data into array of numbers
 
 **Level_Encoding in Scikit-Learn
 
+Extract numerical and categorical column from dataset
+
+Machine Learning :
+    Supervised : Input and Output both are known.
+    Unsupervised : Only Input in known.
+    Semisupervised : 
+    Reiforcement : 
