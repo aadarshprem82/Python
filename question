@@ -29,5 +29,8 @@ Normalization
 
 Matplotlip is python library to manage graphs in python.
 
-cluster and non cluster index : 
-data preprocessing
+cluster : Pre defined 
+and non cluster index : 
+
+Data preprocessing : When we make raw data into uselful data, this process is called data preprocessing.
+Machine Learning works on numeric data and Independent Data.
