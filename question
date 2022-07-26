@@ -34,3 +34,12 @@ and non cluster index :
 
 Data preprocessing : When we make raw data into uselful data, this process is called data preprocessing.
 Machine Learning works on numeric data and Independent Data.
+
+Datatype in Machine Learning : Numeric and Catogerial
+    Numeric : integer and float
+    Categorial : Nominal(Cannot be indexed) and Ordinal(can go upto 7)
+
+fit_transform() : categorial data into array of numbers
+
+**Level_Encoding in Scikit-Learn
+
