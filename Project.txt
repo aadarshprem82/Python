@@ -1,0 +1,14 @@
+	Title of the Project
+	Certification
+	Acknowledgement
+	Content
+	Introduction of the Project
+	Objective of the Project
+	SRS - 	hardware and software requirement
+		introduction about the technology
+	Database Link
+	Code and ScreenShot
+	Software Testing
+	Security
+	Future Scope
+	References
