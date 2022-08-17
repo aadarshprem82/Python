@@ -24,7 +24,7 @@ Normalization
 1NF :  Primary Key
 2NF : 1NF and No Partial Dependency
 3NF : 1NF, 2NF and No transitive dependency(indirect dependencies)
-    Partial : many keys to one attribute
+    Partial : many keys to one non key `   attribute
     transitive : non key attribute to non key attribute
 
 Matplotlip is python library to manage graphs in python.
