@@ -41,7 +41,7 @@ Datatype in Machine Learning : Numeric and Catogerial
 
 fit_transform() : categorial data into array of numbers
 
-**Level_Encoding in Scikit-Learn
+**Label_Encoding in Scikit-Learn
 
 Extract numerical and categorical column from dataset
 
