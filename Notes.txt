@@ -1,0 +1,3 @@
+The Time Complexity of an algorithm/code is not equal to the actual time required to execute a particular code, but the number of times a statement executes.
+actual time required to execute code is machine-dependent
+Time Complexity considers how many times each statement executes.
